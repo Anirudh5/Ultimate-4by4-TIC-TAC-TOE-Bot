@@ -1,2 +1,9 @@
 # Ultimate-4by4-TIC-TAC-TOE-Bot
-Developed an Ultimate 4By4 TIC TAC TOE BOT using minimax search and alpha beta pruning technique. Also a heuristic was developed based on various board positions and dynamic weights according to game situations. A simple system to control attacking and defensive behaviour of bot was also developed.
+The game can be run in three modes :
+
+1. MyBot vs HumanPlayer
+python simulator.py 1
+
+2. MyBot vs RandomPlayer python simulator.py 2
+
+3. MyBot vs YourBot Import you bots class in simulator.py python simulator.py 3
